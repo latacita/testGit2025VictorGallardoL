@@ -1,6 +1,6 @@
-Centro:
+Centro: Facultad de Ciencias
 Calle:
 Número:
 CP: 
 Ciudad: 
-Provincia: 
+Provincia: Cantabria
