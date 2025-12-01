@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Gallardo Laurenz, Víctor):                               %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01)   Se ha clonado el repositorio
+(02)   Se han añadido los apellidos 
+	y el nombre
+(03)   add . + commit "Paso 03" 
