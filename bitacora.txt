@@ -36,3 +36,10 @@
 (22)   checkout RamaC
 (23)   stash pop + add . +
 	commit "Paso 23"
+(24)   checkout master
+(25)				      Se haría de manera recursiva, ya que las ramas master y RamaC tienen 
+					commits independientes.
+(26)   merge RamaD
+(27)   merge RamaC
+(28)   tag Conseguido
+(29)   add . + commit "Paso 29"
