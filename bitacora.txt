@@ -5,7 +5,7 @@
 %%==================================================================%%
 
  Paso   Acción                       Notas
-====== ============================ ================================
+====== ============================ ====================================================================
 (01)   Se ha clonado el repositorio
 (02)   Se han añadido los apellidos 
 	y el nombre
@@ -18,4 +18,9 @@
 (09)   checkout RamaB
 (10)   Se edita el archivo direccion
 (11)   add . + commit "Paso 11" 
-
+(12)   checkout master  	
+(13)   merge RamaA		     La fusión se realiza por fast-forward.
+(14)   merge RamaB + add . +         Al realizar la fusión, se produce un error porque existen conflictos
+                                      en el archivo direccion.txt y bitacora.txt. La fusión se realiza de manera
+	commit "Paso 14"               recursiva.
+(15)   add . + commit "Paso 15"
