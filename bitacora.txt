@@ -24,3 +24,15 @@
                                       en el archivo direccion.txt y bitacora.txt. La fusión se realiza de manera
 	commit "Paso 14"               recursiva.
 (15)   add . + commit "Paso 15"
+(16)   branch RamaC
+(17)   checkout RamaC
+(18)   Se ha cambiado direccion.txt
+(19)   branch RamaD + push origin
+	RamaD + stash + checkout
+         RamaD
+(20)   Creacion calificacion.txt
+(21)   add calificacion.txt + 
+	commit "Paso 21"
+(22)   checkout RamaC
+(23)   stash pop + add . +
+	commit "Paso 23"
