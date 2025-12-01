@@ -1,6 +1,6 @@
-Centro:
-Calle:
-Número:
-CP: 
-Ciudad: 
-Provincia: 
+Centro: Facultad de Ciencias
+Calle: Avenida Los Castros
+Número: 33
+CP: 39012
+Ciudad: Santander
+Provincia: Santander

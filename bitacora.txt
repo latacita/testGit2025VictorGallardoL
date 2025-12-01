@@ -10,3 +10,8 @@
 (02)   Se han añadido los apellidos 
 	y el nombre
 (03)   add . + commit "Paso 03" 
+(04)   branch RamaA
+(05)   branch RamaB
+(06)   checkout RamaA
+(07)   Se edita el archivo direccion
+(08)   add . + commit "Paso 08"
